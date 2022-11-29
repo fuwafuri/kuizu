@@ -1,5 +1,4 @@
 for(let a = 0; a<100; a++){
 alert("あなたは馬鹿です");
 }
-const music = new Audio('./iei.mp3');
-se.play();
+se.play("https://fuwafuri.github.io/kuizu/iei.mp3");
