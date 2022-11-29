@@ -3,6 +3,9 @@ body{
   margin:0px;
   background-color: #afeeee;
 }
+html{
+  margin-top:25%;  
+}
 .ome{
   text-align: center;
   margin-top:25%;
