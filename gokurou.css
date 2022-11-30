@@ -1,13 +1,13 @@
 @charset "utf-8";
 body{
   background-color:#afeeee;
-  align-items: center;
+  text-align: center;
 }
 html{
   margin-top:12%;
-  align-items: center;
+  text-align: center;
 }
 .gokurou{
-  align-items: center;
+  text-align: center;
   margin-top:12%;
 }
