@@ -2,11 +2,16 @@
 body{
   margin:0px;
   background-color: #afeeee;
+  align-items: center;
 }
 html{
   margin-top:25%;  
+  align-items: center;
 }
 .ome{
   text-align: center;
   margin-top:25%;
+}
+.unti{
+  align-items: center;
 }
